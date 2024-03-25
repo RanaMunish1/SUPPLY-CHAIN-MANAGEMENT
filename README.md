@@ -1,6 +1,5 @@
 # README
 ## Table Of Contents
--   [Video](#video)
 -   [Run in Intellij IDEA (recommend)](#run-in-intellij-idea)
 -   [Run in Spring Tool Suite](#run-in-spring-tool-suite)
 
